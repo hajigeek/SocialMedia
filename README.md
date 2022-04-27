@@ -6,3 +6,6 @@ this is api calling app and we will build social media , we will call api
 ## Getting Started
 this proeject is written with flutter 
 
+
+# get the user api from https://jsonplaceholder.typicode.com/users
+and the posts from here
